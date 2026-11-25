@@ -1,0 +1,27 @@
+KHIPU_ID,OKR_NUM,INVESTIGATOR_NUM,MUSEUM_NAME,MUSEUM_NUM,REGION,PROVENANCE,CREATED_BY,key_okr,is_dallas
+1000065,KH0208,AS190,"""American Museum of Natural History, NY""",41.2/6714,,Ica,katie,KH0208,False
+1000088,KH0146,AS130 B,"""Museum für Völkerkunde, Berlin""",VA37857,,near Lima,katie,KH0146,False
+1000228,KH0099,AS086,"""Museum fur Volkerkunde, Basel, Switzerland""",2821,,Huacho,leah,KH0099,False
+1000318,KH0268,UR036/UR133,Museo Chileno de Arte Precolombino,CMBE 0901,,"""Playa Miller #6, Arica, Chile""",tania,KH0268,False
+1000327,KH0351,UR115/UR126,"""Museum of Worldculture, Goteborg, Sweden""",16.9.57,,Pachacamac,tania,KH0351,False
+1000396,KH0228,AS208/UR083,"""Museum fur Volkerkunde, Vienna""",140708,,"""Huaura Valley, near Lima, on Santa Rosalia Hacienda""",eric,KH0228,False
+1000453,KH0589,QU01,Dallas Museum of Art,B376/T41299.23,"""Inka, Late Horizon""",,gurton,KH0589,True
+1000454,KH0591,QU03,Dallas Museum of Art,B378/T41299.25,"""Inka, Late Horizon""",,gurton,KH0591,True
+1000455,KH0590,QU02,Dallas Museum of Art,B388/T41299.24,"""Inka, Late Horizon""",,gurton,KH0590,True
+1000456,KH0592,QU04,Dallas Museum of Art,B377/T41299.26,"""Inka, Late Horizon""",,gurton,KH0592,True
+1000457,KH0593,QU05,Dallas Museum of Art,B384/T41299.27,"""Inka, Late Horizon""",,gurton,KH0593,True
+1000458,KH0594,QU06,Dallas Museum of Art,B372/T41299.28,"""Inka, Late Horizon""",,gurton,KH0594,True
+1000459,KH0595,QU07,Dallas Museum of Art,B367/T41299.29,"""Inka, Late Horizon""",,gurton,KH0595,True
+1000460,KH0596,QU08,Dallas Museum of Art,B366/T41299.30,"""Inka, Late Horizon""",,gurton,KH0596,True
+1000461,KH0597,QU09,Dallas Museum of Art,B374/T41299.31,"""Inka, Late Horizon""",,gurton,KH0597,True
+1000462,KH0598,QU10,Dallas Museum of Art,B375/T41299.32,"""Inka, Late Horizon""",,gurton,KH0598,True
+1000463,KH0599,QU11,Dallas Museum of Art,B391/T41299.20,"""Inka, Late Horizon""",,gurton,KH0599,True
+1000464,KH0601,QU13,Dallas Museum of Art,B399/T41299.34,"""Inka, Late Horizon""",,gurton,KH0601,True
+1000465,KH0602,QU14,Dallas Museum of Art,B373/T41299.18,"""Inka, Late Horizon""",,gurton,KH0602,True
+1000466,KH0603,QU15,Dallas Museum of Art,B383&B383A/T41299.35.A-B,"""Inka, Late Horizon""",,gurton,KH0603,True
+1000467,KH0604,QU16,Dallas Museum of Art,B395/T41299.36,"""Inka, Late Horizon""",,gurton,KH0604,True
+1000468,KH0605,QU17,Dallas Museum of Art,B382/T41299.37,"""Inka, Late Horizon""",,gurton,KH0605,True
+1000469,KH0606,QU18,Dallas Museum of Art,B371/T41299.38,"""Inka, Late Horizon""",,gurton,KH0606,True
+1000470,KH0607,QU19,Dallas Museum of Art,T41299.38,"""Inka, Late Horizon""",,gurton,KH0607,True
+1000491,KH0419,UR181,"""American Museum of Natural History, NY""",B/3453D,,Cajamarquilla,gurton,KH0419,False
+1000546,KH0198,AS181/UR236,"""Ethnologisches Museum, Berlin, Germany""",VA 66832,unknown,unknown,gurton,KH0198,False

@@ -1,0 +1,10 @@
+Field_Subset,n_cords,Exact_%,Mismatches
+"TWIST (all cords, incl. U)",33752,99.46,181
+TWIST (both S/Z known),27994,100.0,0
+"ATTACHMENT (all cords, incl. U)",33752,99.46,181
+ATTACHMENT (both R/V known),23027,100.0,0
+"COLOR (FULL_COLOR vs KFG Color, both known)",33154,79.46,6809
+VALUE (all aligned pendants),33752,81.7,6175
+"VALUE (unknotted, n_knots==0)",10705,98.91,117
+"VALUE (knotted, clean decimal)",17933,93.66,1137
+"VALUE (knotted, non-clean decimal)",5114,3.77,4921
