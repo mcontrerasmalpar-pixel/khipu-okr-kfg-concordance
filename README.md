@@ -1,5 +1,7 @@
 # OKR v2.1.0 vs. KFG: Cross-Repository Concordance & Schema Audit
 
+Maria Contreras ([Disentangle Lab](https://github.com/Disentangle-Lab)) · companion to [Khipu-ML](https://github.com/Disentangle-Lab/Khipu-ML), [khipu-intra-grammar](https://github.com/Disentangle-Lab/khipu-intra-grammar), [khipu-structural-graphs](https://github.com/Disentangle-Lab/khipu-structural-graphs), and [khipu-semantic-alignment](https://github.com/Disentangle-Lab/khipu-semantic-alignment)
+
 Reproducible inter-database concordance audit comparing the **Open Khipu Repository (OKR v2.1.0, 619 khipus; DOI: `10.5281/zenodo.18025748`)** and the **Khipu Field Guide (KFG, 650 rows; `khipufieldguide/data-science-khipu-article`)**.
 
 ## Key Findings (`n = 611` exact 1-to-1 physical matches)

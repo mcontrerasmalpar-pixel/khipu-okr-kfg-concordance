@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this concordance audit or schema comparison, please cite this repository."
+title: "OKR v2.1.0 vs. KFG: Cross-Repository Concordance & Schema Audit"
+type: software
+date-released: "2026-11-27"
+license: MIT
+repository-code: "https://github.com/Disentangle-Lab/khipu-okr-kfg-concordance"
+authors:
+  - family-names: "Contreras"
+    given-names: "Maria"
+    affiliation: "Disentangle Lab"
+keywords:
+  - khipu
+  - quipu
+  - open-khipu-repository
+  - data-audit
+  - digital-humanities
+references:
+  - type: dataset
+    title: "Open Khipu Repository (OKR v2.1.0)"
+    doi: "10.5281/zenodo.18025748"
